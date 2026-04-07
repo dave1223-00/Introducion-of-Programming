@@ -1,0 +1,4 @@
+원격저장소주소
+https://github.com/dave1223-00/Introducion-of-Programming.git
+변수명
+origin_IP
